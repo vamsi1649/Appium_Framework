@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-12T23:02:24 IST" name="Default suite" finished-at="2022-12-12T23:04:53 IST" duration-ms="149397">
+    <groups>
+    </groups>
+    <test started-at="2022-12-12T23:02:24 IST" name="Default test" finished-at="2022-12-12T23:04:53 IST" duration-ms="149397">
+      <class name="frame.test_case">
+        <test-method is-config="true" signature="KillAllProcesses()[pri:0, instance:frame.test_case@7e5afaa6]" started-at="2022-12-12T23:02:24 IST" name="KillAllProcesses" finished-at="2022-12-12T23:03:32 IST" duration-ms="68163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillAllProcesses -->
+        <test-method signature="tc1()[pri:0, instance:frame.test_case@7e5afaa6]" started-at="2022-12-12T23:03:33 IST" name="tc1" finished-at="2022-12-12T23:04:53 IST" duration-ms="80270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- frame.test_case -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
